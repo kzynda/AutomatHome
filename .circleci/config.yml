@@ -17,9 +17,6 @@
        - checkout
        - run: dotnet test
  workflows:
-   test_and_build:
+   test:
      jobs:
        - test
-       - build:
-           requires:
-             - test
