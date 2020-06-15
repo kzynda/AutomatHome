@@ -8,6 +8,10 @@ ProjectSection(SolutionItems) = preProject
 	README.md = README.md
 EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{C283CC01-34D0-40DD-8EFC-BB1FB7CF7703}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.Tests", "Core.Tests\Core.Tests.csproj", "{C4A8046E-17CA-4F48-AB03-DEF0A81CE5EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{A3377D72-C193-47A0-A6D0-351A6CBCFF0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3377D72-C193-47A0-A6D0-351A6CBCFF0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3377D72-C193-47A0-A6D0-351A6CBCFF0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C283CC01-34D0-40DD-8EFC-BB1FB7CF7703}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C283CC01-34D0-40DD-8EFC-BB1FB7CF7703}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C283CC01-34D0-40DD-8EFC-BB1FB7CF7703}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C283CC01-34D0-40DD-8EFC-BB1FB7CF7703}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4A8046E-17CA-4F48-AB03-DEF0A81CE5EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4A8046E-17CA-4F48-AB03-DEF0A81CE5EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4A8046E-17CA-4F48-AB03-DEF0A81CE5EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4A8046E-17CA-4F48-AB03-DEF0A81CE5EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
