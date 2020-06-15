@@ -2,6 +2,12 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poc", "Poc\Poc.csproj", "{A3377D72-C193-47A0-A6D0-351A6CBCFF0A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{D86950B4-C5C0-4BA2-9EA7-539592A128BB}"
+ProjectSection(SolutionItems) = preProject
+	LICENSE = LICENSE
+	README.md = README.md
+EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
